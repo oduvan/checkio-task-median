@@ -1,0 +1,18 @@
+{
+  "name": "CheckiO Editor",
+  "version": "1",
+  "homepage": "checkio.org",
+  "description": "Game for the programmers",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "aliases": {
+    "underscore": "lodash"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "anim-slider": "https://github.com/checkio/checkio-interface-editor-slider.git",
+    "jquery": "git://github.com/jquery/jquery.git"
+  }
+}

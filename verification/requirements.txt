@@ -1,0 +1,3 @@
+-e git+https://github.com/CheckiO/checkio-base-api@v1.0#egg=CheckiOApi
+-e git+https://github.com/CheckiO/checkio-referee-io@v1.0#egg=CheckiORefereeIO
+-e git+https://github.com/CheckiO/checkio-python-run@v1.0#egg=CheckiORun

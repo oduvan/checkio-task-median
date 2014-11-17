@@ -1,0 +1,28 @@
+{
+	"points": {
+		"solve": 10,
+		"vote": 10,
+		"publish": 5
+	},
+	"tags": ["numbers", "statistics"],
+	"signals": {
+		"sortest": {
+			"sortest": {
+				"points": 20,
+				"badge": "short-median"
+			},
+			"solved": {
+				"resource": {
+					"general": {
+						"metal": 10,
+						"coal": 35
+					},
+					"tower":{
+						"archer": 1,
+						"gold": 10
+					}
+				}
+			}
+		}
+	}
+}
